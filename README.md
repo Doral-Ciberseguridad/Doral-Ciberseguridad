@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/Security_Events-0052CC?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Threat_Detection-0A84FF?style=for-the-badge&logo=shield&logoColor=white">
   <img src="https://img.shields.io/badge/Threat_Hunting-007ACC?style=for-the-badge&logo=target&logoColor=white">
+  <img src="https://img.shields.io/badge/Incident_Response-0052CC?style=for-the-badge&logo=firewall&logoColor=white">
+  <img src="https://img.shields.io/badge/Hardening-0A84FF?style=for-the-badge&logo=checkmarx&logoColor=white">
+  <img src="https://img.shields.io/badge/Sysmon-007ACC?style=for-the-badge&logo=microsoft&logoColor=white">
   <img src="https://img.shields.io/badge/Monitorización-0052CC?style=for-the-badge&logo=activitypub&logoColor=white">
   <img src="https://img.shields.io/badge/Alertas-0A84FF?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/EDR-007ACC?style=for-the-badge&logo=antivirus&logoColor=white">
