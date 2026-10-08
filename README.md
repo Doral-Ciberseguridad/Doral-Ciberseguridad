@@ -10,7 +10,9 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 
 
+
 ---
+
 
 
 
@@ -27,7 +29,9 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 
 
+
 ---
+
 
 
 
@@ -60,7 +64,9 @@ Estas son las temáticas de mis repositorios:
 
 
 
+
 ---
+
 
 
 
