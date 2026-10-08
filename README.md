@@ -9,9 +9,11 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 <br>
 <img width="300" alt="Sombrero_Azul_RMBG" src="https://github.com/user-attachments/assets/1991edbe-3014-49a6-9646-10f847b3310a" />
 
-<br><br>
+</div>
 
 ---
+
+<div align="center">
 
 # 📌 Repositorios destacados
 
@@ -24,9 +26,11 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
   🚨 <a href="https://github.com/Doral-Ciberseguridad/SIEM-Logs-Windows-Powershell">SIEM-Logs-Windows-Powershell</a>
 </p>
 
-<br><br>
+</div>
 
 ---
+
+<div align="center">
 
 # 💻 Stack Tecnológico
 
@@ -57,9 +61,11 @@ Estas son las temáticas de mis repositorios:
   <img src="https://img.shields.io/badge/Automation-0052CC?style=for-the-badge&logo=ansible&logoColor=white">
 </p>
 
-<br><br>
+</div>
 
 ---
+
+<div align="center">
 
 # 📊 Estadísticas de GitHub
 
