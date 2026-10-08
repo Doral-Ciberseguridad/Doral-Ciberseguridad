@@ -10,6 +10,8 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 ---
 
+<br><br>
+
 ### Estudiante Ciberseguridad Defensiva | Blue Team & SOC
 
 <p align="center">
