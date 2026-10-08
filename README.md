@@ -10,7 +10,7 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 ---
 
-### 📌 Proyectos destacados
+### 📌 Repositorios destacados
 
 - [Gestor-Contrasenas-Seguro-Bash](https://github.com/Doral-Ciberseguridad/Gestor-Contrasenas-Seguro-Bash)
 - [Zypher-Herramienta-ciberseguridad-Proyecto-final-FP-SMR](https://github.com/Doral-Ciberseguridad/Zypher-Herramienta-ciberseguridad-Proyecto-final-FP-SMR)
@@ -23,7 +23,7 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 ### 💻 Stack Tecnológico
 
-Estas son las temáticas de mis proyectos:
+Estas son las temáticas de mis repositorios:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ciberseguridad-0052CC?style=for-the-badge&logo=security&logoColor=white">
