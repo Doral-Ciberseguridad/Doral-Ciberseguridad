@@ -42,8 +42,6 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM,SOAR, monitoreo/alertas de
 
 <img src="https://github-readme-stats.vercel.app/api?username=Doral-Ciberseguridad&show_icons=true&theme=blueberry&hide_border=true&count_private=true" alt="GitHub Stats">
 
-<br><br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doral-Ciberseguridad&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages">
 
 </div>
