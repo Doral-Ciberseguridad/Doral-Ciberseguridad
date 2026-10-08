@@ -108,6 +108,10 @@ Estas son las temáticas de mis repositorios:
 
 </div>
 
+
+<br>
+
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doral-Ciberseguridad&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages">
