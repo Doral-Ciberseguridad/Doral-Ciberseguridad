@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👤 Sobre mí</h1>
+# 👤 Sobre mí
 
 Estudiante de informática enfocado en ciberseguridad defensiva.
 
@@ -11,11 +11,13 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 </div>
 
+<div align="center">
 <hr>
+</div>
+
+# 📌 Repositorios destacados
 
 <div align="center">
-
-<h1>📌 Repositorios destacados</h1>
 
 <p align="center">
   🔐 <a href="https://github.com/Doral-Ciberseguridad/Gestor-Contrasenas-Seguro-Bash">Gestor-Contrasenas-Seguro-Bash</a><br>
@@ -28,15 +30,17 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 </div>
 
-<hr>
-
 <div align="center">
+<hr>
+</div>
 
-<h1>💻 Stack Tecnológico</h1>
+# 💻 Stack Tecnológico
 
 Estas son las temáticas de mis repositorios:
 
 <br>
+
+<div align="center">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -63,11 +67,13 @@ Estas son las temáticas de mis repositorios:
 
 </div>
 
+<div align="center">
 <hr>
+</div>
+
+# 📊 Estadísticas de GitHub
 
 <div align="center">
-
-<h1>📊 Estadísticas de GitHub</h1>
 
 <br>
 
