@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/🛡️-Blue_Team_Profile-0052CC?style=for-the-badge&logo=security&logoColor=white" alt="Header Shield">
+<img width="1516" height="1037" alt="Sombrero_Azul_Pixel" src="https://github.com/user-attachments/assets/7a323b72-01b8-49c3-8a54-417628f4fed7" />
+
 
 ---
 
