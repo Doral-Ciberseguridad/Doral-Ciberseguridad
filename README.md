@@ -13,7 +13,7 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 ### Stack Tecnológico
 
-Estas son las temáticas de mis proyectos
+Estas son las temáticas de mis proyectos:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ciberseguridad-0052CC?style=for-the-badge&logo=security&logoColor=white">
