@@ -1,6 +1,6 @@
 <div align="center">
 
-#👤 Sobre mí
+# 👤 Sobre mí
 
 Estudiante de informática enfocado en ciberseguridad defensiva. 
 
