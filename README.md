@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👤 Sobre mí
+### 👤 Sobre mí
 
 Estudiante de informática enfocado en ciberseguridad defensiva. 
 
@@ -10,25 +10,20 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 ---
 
-# 📌 Repositorios destacados
+### 📌 Repositorios destacados
 
 <p align="center">
   🔐 <a href="https://github.com/Doral-Ciberseguridad/Gestor-Contrasenas-Seguro-Bash">Gestor-Contrasenas-Seguro-Bash</a><br>
-  
   🛡️ <a href="https://github.com/Doral-Ciberseguridad/Zypher-Herramienta-ciberseguridad-Proyecto-final-FP-SMR">Zypher-Herramienta-ciberseguridad-Proyecto-final-FP-SMR</a><br>
-  
   📡 <a href="https://github.com/Doral-Ciberseguridad/Wazuh-SIEM-Logs-Automatizacion-Alertas-Gmail">Wazuh-SIEM-Logs-Automatizacion-Alertas-Gmail</a><br>
-  
   🔒 <a href="https://github.com/Doral-Ciberseguridad/Hardening-Permisos-CMD-Powershell">Hardening-Permisos-CMD-Powershell</a><br>
-  
   🕵️ <a href="https://github.com/Doral-Ciberseguridad/FIM-Monitorizacion-Archivos-Bash">FIM-Monitorizacion-Archivos-Bash</a><br>
-  
   🚨 <a href="https://github.com/Doral-Ciberseguridad/SIEM-Logs-Windows-Powershell">SIEM-Logs-Windows-Powershell</a>
 </p>
 
 ---
 
-# 💻 Stack Tecnológico
+### 💻 Stack Tecnológico
 
 Estas son las temáticas de mis repositorios:
 
@@ -57,12 +52,12 @@ Estas son las temáticas de mis repositorios:
 
 ---
 
-# 📊 Estadísticas de GitHub
+### 📊 Estadísticas de GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=Doral-Ciberseguridad&show_icons=true&theme=blueberry&hide_border=true&count_private=true" alt="GitHub Stats">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doral-Ciberseguridad&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages">
+<img src="https://img.shields.io/badge/top--langs-Doral--Ciberseguridad-blue?layout=compact" alt="Top Languages"> <!-- O mantén tu enlace original de stats si prefieres -->
 
 </div>
