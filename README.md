@@ -10,6 +10,8 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 <img width="300" alt="Sombrero_Azul_RMBG" src="https://github.com/user-attachments/assets/1991edbe-3014-49a6-9646-10f847b3310a" />
 
 <br><br><br>
+---
+<br>
 
 <h1 align="center">📌 Repositorios destacados</h1>
 
@@ -23,6 +25,8 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 </p>
 
 <br><br><br>
+---
+<br>
 
 <h1 align="center">💻 Stack Tecnológico</h1>
 
@@ -54,6 +58,8 @@ Estas son las temáticas de mis repositorios:
 </p>
 
 <br><br><br>
+---
+<br>
 
 <h1 align="center">📊 Estadísticas de GitHub</h1>
 
