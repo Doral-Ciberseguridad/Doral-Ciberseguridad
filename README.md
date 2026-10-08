@@ -12,12 +12,14 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 ### 📌 Repositorios destacados
 
-- [Gestor-Contrasenas-Seguro-Bash](https://github.com/Doral-Ciberseguridad/Gestor-Contrasenas-Seguro-Bash)
-- [Zypher-Herramienta-ciberseguridad-Proyecto-final-FP-SMR](https://github.com/Doral-Ciberseguridad/Zypher-Herramienta-ciberseguridad-Proyecto-final-FP-SMR)
-- [Wazuh-SIEM-Logs-Automatizacion-Alertas-Gmail](https://github.com/Doral-Ciberseguridad/Wazuh-SIEM-Logs-Automatizacion-Alertas-Gmail)
-- [Hardening-Permisos-CMD-Powershell](https://github.com/Doral-Ciberseguridad/Hardening-Permisos-CMD-Powershell)
-- [FIM-Monitorizacion-Archivos-Bash](https://github.com/Doral-Ciberseguridad/FIM-Monitorizacion-Archivos-Bash)
-- [SIEM-Logs-Windows-Powershell](https://github.com/Doral-Ciberseguridad/SIEM-Logs-Windows-Powershell)
+<p align="center">
+  <a href="https://github.com/Doral-Ciberseguridad/Gestor-Contrasenas-Seguro-Bash">Gestor-Contrasenas-Seguro-Bash</a><br>
+  <a href="https://github.com/Doral-Ciberseguridad/Zypher-Herramienta-ciberseguridad-Proyecto-final-FP-SMR">Zypher-Herramienta-ciberseguridad-Proyecto-final-FP-SMR</a><br>
+  <a href="https://github.com/Doral-Ciberseguridad/Wazuh-SIEM-Logs-Automatizacion-Alertas-Gmail">Wazuh-SIEM-Logs-Automatizacion-Alertas-Gmail</a><br>
+  <a href="https://github.com/Doral-Ciberseguridad/Hardening-Permisos-CMD-Powershell">Hardening-Permisos-CMD-Powershell</a><br>
+  <a href="https://github.com/Doral-Ciberseguridad/FIM-Monitorizacion-Archivos-Bash">FIM-Monitorizacion-Archivos-Bash</a><br>
+  <a href="https://github.com/Doral-Ciberseguridad/SIEM-Logs-Windows-Powershell">SIEM-Logs-Windows-Powershell</a>
+</p>
 
 ---
 
