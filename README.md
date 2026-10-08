@@ -62,8 +62,5 @@ Estas son las temáticas de mis repositorios:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Doral-Ciberseguridad&show_icons=true&theme=blueberry&hide_border=true&count_private=true" alt="GitHub Stats">
 
-<br><br>
-
-<img src="https://img.shields.io/badge/top--langs-Doral--Ciberseguridad-blue?layout=compact" alt="Top Languages"> <!-- O mantén tu enlace original de stats si prefieres -->
 
 </div>
