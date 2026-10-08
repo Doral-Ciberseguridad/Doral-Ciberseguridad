@@ -3,9 +3,9 @@
 ### Estudiante Ciberseguridad Defensiva | Blue Team & SOC 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Actively_Hardening-0052CC?style=for-the-badge&logo=security&logoColor=white" alt="Status">
-  <img src="https://img.shields.io/badge/Specialty-Blue_Team_%2F_SOC-0A84FF?style=for-the-badge&logo=windows&logoColor=white" alt="Specialty">
-  <img src="https://img.shields.io/badge/Automation-PowerShell_%2F_Python-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Tech">
+  <img src="https://img.shields.io/badge/Blue_Team-0052CC?style=for-the-badge&logo=security&logoColor=white">
+  <img src="https://img.shields.io/badge/SIEM_|_SOAR-0A84FF?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Análisis_de_Logs-007ACC?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 </div>
