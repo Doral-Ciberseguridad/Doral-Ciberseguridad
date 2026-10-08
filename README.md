@@ -34,13 +34,15 @@ Apasionado por la monitorización de sistemas, el análisis de logs de Windows y
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Doral-Ciberseguridad&show_icons=true&theme=blueberry&hide_border=true&count_private=true" alt="GitHub Stats">
+  
   <br><br>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doral-Ciberseguridad&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages">
+  
 </div>
 
 ---
 
-<div align="center">
-  <sub>🛡️ <i>Construyendo un entorno digital más seguro, un log a la vez.</i></sub>
-</div>
+
