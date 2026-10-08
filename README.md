@@ -31,7 +31,9 @@
 
 ### 💻 Sobre mí
 
-Apasionado por la monitorización de sistemas, el análisis de logs de Windows y la automatización defensiva. Mi enfoque principal es blindar infraestructuras, cazar amenazas y optimizar la respuesta a incidentes en entornos corporativos.
+Estudiante de informática enfocado en ciberseguridad defensiva. 
+
+Aquí subo mis proyectos de Blue Team, Red Team, SIEM,SOAR, monitoreo/alertas de eventos, analisis de malware y seguridad de equipos.
 
 ---
 
