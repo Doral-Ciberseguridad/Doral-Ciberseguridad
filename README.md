@@ -1,6 +1,5 @@
 <div align="center">
 
-# 🛡️ ¡Hola! Soy Doral
 ### Especialista en Ciberseguridad Defensiva | Blue Team & SOC Automation
 
 <p align="center">
