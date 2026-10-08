@@ -83,7 +83,6 @@ Estas son las temáticas de mis repositorios:
   <img src="https://img.shields.io/badge/Networking-0A84FF?style=for-the-badge&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/Backup-007ACC?style=for-the-badge&logo=icloud&logoColor=white">
   <img src="https://img.shields.io/badge/Automation-0052CC?style=for-the-badge&logo=ansible&logoColor=white">
-  <img src="https://img.shields.io/badge/Wazuh-0A84FF?style=for-the-badge&logo=shield&logoColor=white">
   <img src="https://img.shields.io/badge/FIM-007ACC?style=for-the-badge&logo=security&logoColor=white">
   <img src="https://img.shields.io/badge/Hardening-007ACC?style=for-the-badge&logo=windows-security&logoColor=white">
   <img src="https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=git&logoColor=white">
