@@ -2,6 +2,8 @@
 
 <img src="https://img.shields.io/badge/🛡️-Blue_Team_Profile-0052CC?style=for-the-badge&logo=security&logoColor=white" alt="Header Shield">
 
+---
+
 ### 💻 Sobre mí
 
 Estudiante de informática enfocado en ciberseguridad defensiva. 
