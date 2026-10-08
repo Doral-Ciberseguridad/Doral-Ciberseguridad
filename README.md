@@ -30,6 +30,16 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 
 
+
+
+
+
+
+
+
+
+
+
 # 📌 Repositorios destacados
 
 <p align="center">
@@ -46,7 +56,23 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 
 
+
+
+
+
+
+
+
+
 ---
+
+
+
+
+
+
+
+
 
 
 
