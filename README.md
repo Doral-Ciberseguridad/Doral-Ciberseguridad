@@ -1,18 +1,17 @@
 <div align="center">
 
-# 👤 Sobre mí
+<h1 align="center">👤 Sobre mí</h1>
 
 Estudiante de informática enfocado en ciberseguridad defensiva. 
 
 Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas de eventos, análisis de malware y seguridad de equipos.
 
+<br>
 <img width="300" alt="Sombrero_Azul_RMBG" src="https://github.com/user-attachments/assets/1991edbe-3014-49a6-9646-10f847b3310a" />
 
-<br><br>
-<hr style="border: none; height: 1px; background: rgba(255,255,255,0.2); width: 80%;">
-<br>
+<br><br><br>
 
-# 📌 Repositorios destacados
+<h1 align="center">📌 Repositorios destacados</h1>
 
 <p align="center">
   🔐 <a href="https://github.com/Doral-Ciberseguridad/Gestor-Contrasenas-Seguro-Bash">Gestor-Contrasenas-Seguro-Bash</a><br>
@@ -23,13 +22,13 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
   🚨 <a href="https://github.com/Doral-Ciberseguridad/SIEM-Logs-Windows-Powershell">SIEM-Logs-Windows-Powershell</a>
 </p>
 
-<br><br>
-<hr style="border: none; height: 1px; background: rgba(255,255,255,0.2); width: 80%;">
-<br>
+<br><br><br>
 
-# 💻 Stack Tecnológico
+<h1 align="center">💻 Stack Tecnológico</h1>
 
 Estas son las temáticas de mis repositorios:
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -54,11 +53,11 @@ Estas son las temáticas de mis repositorios:
   <img src="https://img.shields.io/badge/Automation-0052CC?style=for-the-badge&logo=ansible&logoColor=white">
 </p>
 
-<br><br>
-<hr style="border: none; height: 1px; background: rgba(255,255,255,0.2); width: 80%;">
-<br>
+<br><br><br>
 
-# 📊 Estadísticas de GitHub
+<h1 align="center">📊 Estadísticas de GitHub</h1>
+
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Doral-Ciberseguridad&show_icons=true&theme=blueberry&hide_border=true&count_private=true" alt="GitHub Stats">
 
