@@ -23,7 +23,7 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 <div align="center">
 
-# 📌 Repositorios destacados
+### 📌 Repositorios destacados
 
 <p align="center">
   🔐 <a href="https://github.com/Doral-Ciberseguridad/Gestor-Contrasenas-Seguro-Bash">Gestor-Contrasenas-Seguro-Bash</a><br>
@@ -49,7 +49,7 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 <div align="center">
 
-# 💻 Stack Tecnológico
+### 💻 Stack Tecnológico
 
 Estas son las temáticas de mis repositorios:
 
@@ -88,7 +88,7 @@ Estas son las temáticas de mis repositorios:
 
 <div align="center">
 
-# 📊 Estadísticas de GitHub
+### 📊 Estadísticas de GitHub
 
 <br>
 
