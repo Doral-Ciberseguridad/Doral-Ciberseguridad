@@ -8,6 +8,16 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 <img width="300" alt="Sombrero_Azul_RMBG" src="https://github.com/user-attachments/assets/1991edbe-3014-49a6-9646-10f847b3310a" />
 
+---
+
+### 📌 Proyectos destacados
+
+- [Gestor-Contrasenas-Seguro-Bash](https://github.com/Doral-Ciberseguridad/Gestor-Contrasenas-Seguro-Bash)
+- [Zypher-Herramienta-ciberseguridad-Proyecto-final-FP-SMR](https://github.com/Doral-Ciberseguridad/Zypher-Herramienta-ciberseguridad-Proyecto-final-FP-SMR)
+- [Wazuh-SIEM-Logs-Automatizacion-Alertas-Gmail](https://github.com/Doral-Ciberseguridad/Wazuh-SIEM-Logs-Automatizacion-Alertas-Gmail)
+- [Hardening-Permisos-CMD-Powershell](https://github.com/Doral-Ciberseguridad/Hardening-Permisos-CMD-Powershell)
+- [FIM-Monitorizacion-Archivos-Bash](https://github.com/Doral-Ciberseguridad/FIM-Monitorizacion-Archivos-Bash)
+- [SIEM-Logs-Windows-Powershell](https://github.com/Doral-Ciberseguridad/SIEM-Logs-Windows-Powershell)
 
 ---
 
