@@ -1,6 +1,6 @@
 <div align="center">
 
-### 💻 Sobre mí
+### 👤 Sobre mí
 
 Estudiante de informática enfocado en ciberseguridad defensiva. 
 
@@ -11,7 +11,7 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 ---
 
-### Stack Tecnológico
+### 💻 Stack Tecnológico
 
 Estas son las temáticas de mis proyectos:
 
