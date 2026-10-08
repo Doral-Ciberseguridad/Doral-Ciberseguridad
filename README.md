@@ -11,17 +11,19 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 </div>
 
+
 <div align="center">
 
-
+<br>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
+<br>
 
 </div>
 
-<div align="center">
+
+
 
 ### 📌 Repositorios destacados
 
@@ -43,7 +45,12 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 <div align="center">
 
+
+<br>
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
 
 </div>
 
@@ -82,7 +89,12 @@ Estas son las temáticas de mis repositorios:
 
 <div align="center">
 
+
+<br>
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
 
 </div>
 
