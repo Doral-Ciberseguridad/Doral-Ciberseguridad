@@ -1,6 +1,6 @@
 <div align="center">
 
-### 👤 Sobre mí
+# 👤 Sobre mí
 
 Estudiante de informática enfocado en ciberseguridad defensiva. 
 
@@ -10,7 +10,7 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 ---
 
-### 📌 Repositorios destacados
+# 📌 Repositorios destacados
 
 <p align="center">
   🔐 <a href="https://github.com/Doral-Ciberseguridad/Gestor-Contrasenas-Seguro-Bash">Gestor-Contrasenas-Seguro-Bash</a><br>
@@ -23,7 +23,7 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 ---
 
-### 💻 Stack Tecnológico
+# 💻 Stack Tecnológico
 
 Estas son las temáticas de mis repositorios:
 
@@ -52,7 +52,7 @@ Estas son las temáticas de mis repositorios:
 
 ---
 
-### 📊 Estadísticas de GitHub
+# 📊 Estadísticas de GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=Doral-Ciberseguridad&show_icons=true&theme=blueberry&hide_border=true&count_private=true" alt="GitHub Stats">
 
