@@ -1,6 +1,6 @@
 <div align="center">
 
-### Especialista en Ciberseguridad Defensiva | Blue Team & SOC Automation
+### Estudiante Ciberseguridad Defensiva | Blue Team & SOC 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Actively_Hardening-0052CC?style=for-the-badge&logo=security&logoColor=white" alt="Status">
