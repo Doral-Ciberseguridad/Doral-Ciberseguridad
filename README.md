@@ -37,19 +37,6 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM,SOAR, monitoreo/alertas de
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
-
-<div align="center">
-
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Defensa & SIEM** | `Windows Security Logs` `PowerShell` `SIEM Monitoring` `Event Viewer` |
-| **Lenguajes** | `Python` `Bash` `PowerShell Scripting` |
-| **Sistemas** | `Windows Server` `Linux (Ubuntu/Debian)` |
-
-</div>
-
----
 
 ### 📊 Estadísticas de GitHub
 
