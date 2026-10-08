@@ -1,5 +1,15 @@
 <div align="center">
 
+<img src="https://img.shields.io/badge/🛡️-Blue_Team_Profile-0052CC?style=for-the-badge&logo=security&logoColor=white" alt="Header Shield">
+
+### 💻 Sobre mí
+
+Estudiante de informática enfocado en ciberseguridad defensiva. 
+
+Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas de eventos, análisis de malware y seguridad de equipos.
+
+---
+
 ### Estudiante Ciberseguridad Defensiva | Blue Team & SOC
 
 <p align="center">
@@ -29,18 +39,11 @@
 
 ---
 
-### 💻 Sobre mí
-
-Estudiante de informática enfocado en ciberseguridad defensiva. 
-
-Aquí subo mis proyectos de Blue Team, Red Team, SIEM,SOAR, monitoreo/alertas de eventos, analisis de malware y seguridad de equipos.
-
----
-
-
 ### 📊 Estadísticas de GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=Doral-Ciberseguridad&show_icons=true&theme=blueberry&hide_border=true&count_private=true" alt="GitHub Stats">
+
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doral-Ciberseguridad&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages">
 
