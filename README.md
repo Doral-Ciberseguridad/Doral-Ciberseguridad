@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="604" height="413" alt="Sombrero_Azul_RMBG" src="https://github.com/user-attachments/assets/1991edbe-3014-49a6-9646-10f847b3310a" />
-
+<img width="300" alt="Sombrero_Azul_RMBG" src="https://github.com/user-attachments/assets/1991edbe-3014-49a6-9646-10f847b3310a" />
 
 ### 💻 Sobre mí
 
