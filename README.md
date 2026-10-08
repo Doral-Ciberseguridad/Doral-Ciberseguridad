@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">👤 Sobre mí</h1>
+# 👤 Sobre mí
 
 Estudiante de informática enfocado en ciberseguridad defensiva. 
 
@@ -10,9 +10,10 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 <img width="300" alt="Sombrero_Azul_RMBG" src="https://github.com/user-attachments/assets/1991edbe-3014-49a6-9646-10f847b3310a" />
 
 <br><br>
-<hr style="border: none; height: 1px; background: #30363d; width: 100%; margin: 30px auto;">
 
-<h1 align="center">📌 Repositorios destacados</h1>
+---
+
+# 📌 Repositorios destacados
 
 <p align="center">
   🔐 <a href="https://github.com/Doral-Ciberseguridad/Gestor-Contrasenas-Seguro-Bash">Gestor-Contrasenas-Seguro-Bash</a><br>
@@ -24,9 +25,10 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 </p>
 
 <br><br>
-<hr style="border: none; height: 1px; background: #30363d; width: 100%; margin: 30px auto;">
 
-<h1 align="center">💻 Stack Tecnológico</h1>
+---
+
+# 💻 Stack Tecnológico
 
 Estas son las temáticas de mis repositorios:
 
@@ -43,7 +45,7 @@ Estas son las temáticas de mis repositorios:
   <img src="https://img.shields.io/badge/SOC-0052CC?style=for-the-badge&logo=shield&logoColor=white">
   <img src="https://img.shields.io/badge/Incident_Response-007ACC?style=for-the-badge&logo=firewall&logoColor=white">
   <img src="https://img.shields.io/badge/Log_Analysis-0A84FF?style=for-the-badge&logo=files&logoColor=white"><br>
-  <img src="https://img.shields.Id/badge/Hardening-0052CC?style=for-the-badge&logo=checkmarx&logoColor=white">
+  <img src="https://img.shields.io/badge/Hardening-0052CC?style=for-the-badge&logo=checkmarx&logoColor=white">
   <img src="https://img.shields.io/badge/Sysmon-007ACC?style=for-the-badge&logo=microsoft&logoColor=white">
   <img src="https://img.shields.io/badge/Detection-0A84FF?style=for-the-badge&logo=letsencrypt&logoColor=white">
   <img src="https://img.shields.io/badge/Malware_Analysis-0052CC?style=for-the-badge&logo=antivirus&logoColor=white">
@@ -56,9 +58,10 @@ Estas son las temáticas de mis repositorios:
 </p>
 
 <br><br>
-<hr style="border: none; height: 1px; background: #30363d; width: 100%; margin: 30px auto;">
 
-<h1 align="center">📊 Estadísticas de GitHub</h1>
+---
+
+# 📊 Estadísticas de GitHub
 
 <br>
 
