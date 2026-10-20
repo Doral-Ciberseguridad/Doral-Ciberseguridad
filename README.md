@@ -28,6 +28,8 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 ### 📌 Repositorios destacados
 
 <p align="center">
+  🔔 <a href="https://github.com/Doral-Ciberseguridad/Splunk_SIEM-Python-Automatizacion-Alertas-Sysmon-Event-1-">Splunk_SIEM-Python-Automatizacion-Alertas-Sysmon-Event-1-</a><br>
+  
   🔐 <a href="https://github.com/Doral-Ciberseguridad/Gestor-Contrasenas-Seguro-Bash">Gestor-Contrasenas-Seguro-Bash</a><br>
   
   🛡️ <a href="https://github.com/Doral-Ciberseguridad/Zypher-Herramienta-ciberseguridad-Proyecto-final-FP-SMR">Zypher-Herramienta-ciberseguridad-Proyecto-final-FP-SMR</a><br>
