@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👤 Sobre mí
+## 👤 Sobre mí
 
 Soy un estudiante de informática enfocado en ciberseguridad defensiva y quiero trabajar en este sector.
 
@@ -25,7 +25,7 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 <div align="center">
 
-# 📌 Repositorios destacados
+## 📌 Repositorios destacados
 
 <p align="center">
   🔔 <a href="https://github.com/Doral-Ciberseguridad/Wazuh-SIEM-Logs-Automatizacion-Alertas-Gmail">Wazuh-SIEM-Logs-Automatizacion-Alertas-Gmail</a><br>
@@ -57,7 +57,7 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 <div align="center">
 
-# 💻 Stack Tecnológico
+## 💻 Stack Tecnológico
 
 Estas son las temáticas de mis repositorios:
 
@@ -117,7 +117,7 @@ Estas son las temáticas de mis repositorios:
 
 <div align="center">
 
-# 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <img src="https://github-stats-extended.vercel.app/api?username=Doral-Ciberseguridad&show_icons=true&theme=blueberry&hide_border=true" alt="GitHub Stats">
 
