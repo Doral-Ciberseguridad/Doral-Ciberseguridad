@@ -59,7 +59,7 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 
 ### 💻 Stack Tecnológico
 
-Estas son las temáticas de mis repositorios:
+Estas son las áreas y temáticas de mis repositorios:
 
 <br>
 
