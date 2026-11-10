@@ -107,10 +107,10 @@ Estas son las temáticas de mis repositorios:
 
 ### 📊 Estadísticas de GitHub
 
-<img src="./profile/stats.svg" alt="GitHub Stats">
+<img src="https://github-stats-extended.vercel.app/api?username=Doral-Ciberseguridad&show_icons=true&theme=blueberry&hide_border=true" alt="GitHub Stats">
 
 <br><br>
 
-<img src="./profile/top-langs.svg" alt="Top Languages">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Doral-Ciberseguridad&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages">
 
 </div>
