@@ -28,20 +28,19 @@ Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas d
 ### 📌 Repositorios destacados
 
 <p align="center">
-  🔔 <a href="https://github.com/Doral-Ciberseguridad/Splunk_SIEM-Python-Automatizacion-Alertas-Sysmon-Event-1-">Splunk_SIEM-Python-Automatizacion-Alertas-Sysmon-Event-1-</a><br>
+  🔔 <a href="https://github.com/Doral-Ciberseguridad/Wazuh-SIEM-Logs-Automatizacion-Alertas-Gmail">Wazuh-SIEM-Logs-Automatizacion-Alertas-Gmail</a><br>
   
-  🔐 <a href="https://github.com/Doral-Ciberseguridad/Gestor-Contrasenas-Seguro-Bash">Gestor-Contrasenas-Seguro-Bash</a><br>
+  🎣 <a href="https://github.com/Doral-Ciberseguridad/Analisis-de-malware-Phishing-">Analisis-de-malware-Phishing-</a><br>
   
-  🛡️ <a href="https://github.com/Doral-Ciberseguridad/Zypher-Herramienta-ciberseguridad-Proyecto-final-FP-SMR">Zypher-Herramienta-ciberseguridad-Proyecto-final-FP-SMR</a><br>
+  🤖 <a href="https://github.com/Doral-Ciberseguridad/Elastic-SIEM-Shuffle-SOAR---Incident-Response-automatizado">Elastic-SIEM-Shuffle-SOAR---Incident-Response-automatizado</a><br>
   
-  📡 <a href="https://github.com/Doral-Ciberseguridad/Wazuh-SIEM-Logs-Automatizacion-Alertas-Gmail">Wazuh-SIEM-Logs-Automatizacion-Alertas-Gmail</a><br>
+  📊 <a href="https://github.com/Doral-Ciberseguridad/Proyecto-Oryzon-Technologies---Splunk-SIEM">Proyecto-Oryzon-Technologies---Splunk-SIEM</a><br>
   
-  🔒 <a href="https://github.com/Doral-Ciberseguridad/Hardening-Permisos-CMD-Powershell">Hardening-Permisos-CMD-Powershell</a><br>
+  ⚙️ <a href="https://github.com/Doral-Ciberseguridad/Splunk_SIEM-Python-Automatizacion-Alertas-Sysmon-Event-1-">Splunk_SIEM-Python-Automatizacion-Alertas-Sysmon-Event-1-</a><br>
   
-  🕵️ <a href="https://github.com/Doral-Ciberseguridad/FIM-Monitorizacion-Archivos-Bash">FIM-Monitorizacion-Archivos-Bash</a><br>
-  
-  🚨 <a href="https://github.com/Doral-Ciberseguridad/SIEM-Logs-Windows-Powershell">SIEM-Logs-Windows-Powershell</a>
+  🔒 <a href="https://github.com/Doral-Ciberseguridad/Hardening-Permisos-CMD-Powershell">Hardening-Permisos-CMD-Powershell</a>
 </p>
+
 
 </div>
 
