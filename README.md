@@ -4,7 +4,7 @@
 
 Soy un estudiante de informática enfocado en ciberseguridad defensiva y quiero trabajar en este sector.
 
-Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas de eventos, análisis de malware, automatización y seguridad de equipos.
+Aquí subo mis proyectos de Blue Team, SIEM, SOAR, monitoreo/alertas de eventos, análisis de malware, automatización y seguridad de equipos.
 
 <br>
 <img width="300" alt="Sombrero_Azul_RMBG" src="https://github.com/user-attachments/assets/1991edbe-3014-49a6-9646-10f847b3310a" />
