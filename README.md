@@ -2,7 +2,7 @@
 
 ### 👤 Sobre mí
 
-Soy un estudiante de informática enfocado en ciberseguridad defensiva y quiero trabajar en ella.
+Soy un estudiante de informática enfocado en ciberseguridad defensiva y quiero trabajar en este sector.
 
 Aquí subo mis proyectos de Blue Team, Red Team, SIEM, SOAR, monitoreo/alertas de eventos, análisis de malware, automatización y seguridad de equipos.
 
